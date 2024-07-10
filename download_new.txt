@@ -1,0 +1,8 @@
+keras
+tensorflow
+opencv-python
+mediapipe
+mediapipe
+numpy
+pyttsx3
+pandas
